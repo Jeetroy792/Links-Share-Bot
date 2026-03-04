@@ -305,6 +305,6 @@ docker rmi linksharebot         # Remove image
 ## 
 
 ### 🔖 Credits
-<p align="center">SHREENATHJI12<a href="https://t.me/SHREENATHJI12">
+<p><b>SHREENATHJI12<a href="https://t.me/SHREENATHJI12"><a></b>
   </a>
 </p>
