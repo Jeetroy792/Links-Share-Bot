@@ -217,7 +217,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y git curl python3-pip python3-venv ffmpeg unzip tmux
 
 # Step 2: Clone & Setup
-git clone https://github.com/yourusername/LinkShareBot
+git clone https://github.com/Jeetroy792/LinkShareBot
 cd LinkShareBot
 tmux new -s LinkShareBot
 
@@ -253,7 +253,7 @@ rm -rf LinkShareBot                # Uninstall bot
 
 ```bash
 ### Step 1: Clone Repo
-git clone https://github.com/yourusername/LinkShareBot
+git clone https://github.com/Jeetroy792/LinkShareBot
 cd LinkShareBot
 
 ### Step 2: Create .env File
@@ -283,28 +283,28 @@ docker rmi linksharebot         # Remove image
 
 | Platform                | Deploy Link                                                                                                                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌍 **Heroku Deploy**    | <a href="http://dashboard.heroku.com/new?template=https://github.com/codeflix-bots/LinkShareBot"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku"/></a> |
+| 🌍 **Heroku Deploy**    |  |
 
 
 ## 💬 Community & Support
 
 <p align="center">
-  <a href="https://t.me/codeflixsupport">
-    <img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/SHREENATHJI12">
+    #<img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/codeflix_bots">
-    <img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="[https://t.me/codeflix_bots](https://t.me/SHREENATHJI12)">
+    #<img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/proyato">
-    <img src="https://img.shields.io/badge/Contact_Owner-Telegram-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="[https://t.me/proyato](https://t.me/SHREENATHJI12)">
+    #<img src="https://img.shields.io/badge/Contact_Owner-Telegram-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:proyato.com">
-    <img src="https://img.shields.io/badge/Contact-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://t.me/SHREENATHJI12">
   </a>
 </p>
 
 ## 
 
 ### 🔖 Credits
-
-* <b> *ᴄʀᴀғᴛᴇᴅ ᴡɪᴛʜ ᴘᴀssɪᴏɴ ʙʏ <a href="https://github.com/proyato">ʏᴀᴛᴏ</a>* </b>
+<p align="center">SHREENATHJI12<a href="https://t.me/SHREENATHJI12">
+  </a>
+</p>
