@@ -1,4 +1,3 @@
-# +++ Modified By [telegram username: @Codeflix_Bots
 import os
 from os import environ
 import logging
