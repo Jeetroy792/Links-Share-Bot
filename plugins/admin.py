@@ -1,4 +1,3 @@
-# +++ Modified By [telegram username: @Codeflix_Bots
 import os
 import asyncio
 from config import *
